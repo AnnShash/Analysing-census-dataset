@@ -23,4 +23,10 @@ Next the categorical data were mapped to numerical values as follows<br/>
 Model<br/>
 The objective is to predict whether the income is greater than 50K or not, therefore the Logistic regression method was used. The data were split into train set (67%) and test set (33%) using the train_test_split() function. The model was trained using .fit() function and the outputs were predicted using .predict() function.</br><br/>
 
+Improvements <br/>
+•	The created model can be improved by using a balanced dataset.
+•	Accuracy can be improved by adding some more significant attributes.
+•	Can create a more accurate model by using different classifiers such as Support Vector Machines and Decision Tress.
+
+
 
